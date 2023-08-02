@@ -1,0 +1,15 @@
+D:\BtkakademiDersler\Store\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\BtkakademiDersler\Store\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\BtkakademiDersler\Store\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\BtkakademiDersler\Store\Repositories\bin\Debug\net6.0\Entities.dll
+D:\BtkakademiDersler\Store\Repositories\bin\Debug\net6.0\Entities.pdb
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\BtkakademiDersler\Store\Repositories\obj\Debug\net6.0\ref\Repositories.dll
